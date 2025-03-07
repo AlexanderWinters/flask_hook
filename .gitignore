@@ -46,6 +46,7 @@ instance/
 # Database
 *.db
 *.sqlite3
+*.sqlite
 
 # Logs
 *.log
